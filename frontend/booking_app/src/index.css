@@ -1,0 +1,48 @@
+body ,html{
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100%;
+  user-select: none;
+}
+*{
+  margin: 0px;
+  padding: 0px;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.hero-section {
+  background-image: url('https://images.pexels.com/photos/2747449/pexels-photo-2747449.jpeg?cs=srgb&dl=pexels-wolfgang-1002140-2747449.jpg&fm=jpg');
+  background-size:cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 120px 0;
+  color: white;
+  text-align: center;
+  height:92vh;
+  opacity: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.hero-section h1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+.hero-section p {
+  font-size: 1.5rem;
+}
+
+ /* Custom CSS to center the content */
+ .error-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
