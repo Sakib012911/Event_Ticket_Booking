@@ -17,7 +17,7 @@ Before running this application, ensure you have the following installed:
 Open your git bash and run:
 git clone <repository-url>
 
-**⚙️ Step 2: Install Dependencies**
+### ⚙️ **Step 2: Install Dependencies**
 ✅ Backend Setup:
 1. Open the terminal and navigate to the backend folder: 
 cd ./backend
