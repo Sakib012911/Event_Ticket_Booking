@@ -20,7 +20,7 @@ git clone <repository-url>
 ### ⚙️ **Step 2: Install Dependencies**
 ✅ Backend Setup:
 1. Open the terminal and navigate to the backend folder: 
-- cd ./backend
+- cd ./backend.  
 2.Install backend dependencies:
 - npm install
 
