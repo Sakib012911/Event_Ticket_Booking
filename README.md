@@ -26,24 +26,24 @@ git clone <repository-url>
 
 ✅ Frontend Setup:  
 1. Open another terminal and navigate to the frontend folder:  
-   -cd ./frontend/booking_app  
+- cd ./frontend/booking_app  
 2. Create a .env file in the frontend/booking_app directory and add the following line:  
-   -REACT_APP_BASE_HOST="http://localhost:5000"   # Replace with your backend host port  
+- REACT_APP_BASE_HOST="http://localhost:5000"   # Replace with your backend host port  
 3. Install frontend dependencies:  
-   -npm install
+- npm install
 
 **🚀 Step 3: Start the Application**  
 ✅ Start the Backend Go to the first terminal (backend folder):  
-    -node app.js  
+- node app.js  
 ✅ Start the Frontend Go to the second terminal (frontend folder):  
-    -npm start
+- npm start
 
-**🌐 Step 4: Create an Organizer Account**
--Open the app in your browser: http://localhost:3000
+**🌐 Step 4: Create an Organizer Account**  
+- Open the app in your browser: http://localhost:3000
 
--Create an account with the role Organizer.
+- Create an account with the role Organizer.
 
--Login and start creating your preferred events.
+- Login and start creating your preferred events.
 
 
 ------
