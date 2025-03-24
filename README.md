@@ -14,15 +14,15 @@ Before running this application, ensure you have the following installed:
 ## 🛠️ **Installation and Execution Steps**
 
 ### 🔥 **Step 1: Clone the Repository**
--Open your git bash and run:
--git clone <repository-url>
+Open your git bash and run:
+git clone <repository-url>
 
 **⚙️ Step 2: Install Dependencies**
--✅ Backend Setup
--1. Open the terminal and navigate to the backend folder: 
--cd ./backend
--2.Install backend dependencies:
--npm install
+✅ Backend Setup:
+1. Open the terminal and navigate to the backend folder: 
+cd ./backend
+2.Install backend dependencies:
+npm install
 
 -✅ Frontend Setup
 -1. Open another terminal and navigate to the frontend folder:
