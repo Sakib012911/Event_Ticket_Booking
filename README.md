@@ -21,21 +21,21 @@ git clone <repository-url>
 ✅ Backend Setup:
 1. Open the terminal and navigate to the backend folder: 
 - cd ./backend.  
-2.Install backend dependencies:
-- npm install
+2. Install backend dependencies:
+- npm install  
 
--✅ Frontend Setup
--1. Open another terminal and navigate to the frontend folder:
-   -cd ./frontend/booking_app
--2. Create a .env file in the frontend/booking_app directory and add the following line:
-   -REACT_APP_BASE_HOST="http://localhost:5000"   # Replace with your backend host port
--3. Install frontend dependencies:
+✅ Frontend Setup:  
+1. Open another terminal and navigate to the frontend folder:  
+   -cd ./frontend/booking_app  
+2. Create a .env file in the frontend/booking_app directory and add the following line:  
+   -REACT_APP_BASE_HOST="http://localhost:5000"   # Replace with your backend host port  
+3. Install frontend dependencies:  
    -npm install
 
-**🚀 Step 3: Start the Application**
--✅ Start the Backend Go to the first terminal (backend folder):
-    -node app.js
--✅ Start the Frontend Go to the second terminal (frontend folder):
+**🚀 Step 3: Start the Application**  
+✅ Start the Backend Go to the first terminal (backend folder):  
+    -node app.js  
+✅ Start the Frontend Go to the second terminal (frontend folder):  
     -npm start
 
 **🌐 Step 4: Create an Organizer Account**
@@ -47,14 +47,14 @@ git clone <repository-url>
 
 
 ------
-⚡ Tech Stack
--Frontend: React.js (with .env configuration)
--Backend: Node.js, Express.js
--Database: MongoDB
+⚡ Tech Stack  
+-Frontend: React.js (with .env configuration)  
+-Backend: Node.js, Express.js  
+-Database: MongoDB  
 
 ------
 
-**❤️ Contributing**
+**❤️ Contributing**  
 Contributions are welcome! Feel free to fork the repository and create a pull request.
 
 
