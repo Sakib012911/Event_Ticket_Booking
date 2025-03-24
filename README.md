@@ -32,9 +32,9 @@ git clone <repository-url>
 3. Install frontend dependencies:  
 - npm install
 
-**🚀 Step 3: Start the Application**
+**🚀 Step 3: Start the Application**  
 ✅ Start the Backend Go to the first terminal (backend folder):
-- node app.js
+- node app.js  
 ✅ Start the Frontend Go to the second terminal (frontend folder):
 - npm start
 
